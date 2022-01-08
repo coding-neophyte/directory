@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`redner app and components 1`] = `
+<div>
+  <div>
+    <header>
+      <p>
+         
+        Not Signed In
+         
+      </p>
+      <a
+        href="/signin"
+      >
+        <button>
+          Sign In
+        </button>
+      </a>
+    </header>
+  </div>
+  <div>
+    <h1>
+      Welcome to Employee Directory
+    </h1>
+    <a
+      href="/signin"
+    >
+      Login
+    </a>
+    <p>
+      Or
+    </p>
+    <a
+      href="/signup"
+    >
+      Create Account
+    </a>
+  </div>
+</div>
+`;
